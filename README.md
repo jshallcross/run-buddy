@@ -1,5 +1,7 @@
 # Run Buddy, Inc
 
+# University of Toronto Coding Bootcamp Code Along
+
 ## Purpose
 A website that offers fitness training services. 
 
